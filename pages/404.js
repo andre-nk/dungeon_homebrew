@@ -13,7 +13,7 @@ const ErrorPage = () => {
     }, []);
 
     return (
-        <div className="error">
+        <div className="error">zw
             <h1>Oops!</h1>
             <h2>That page cannot be found</h2>
             <Link href="/"><a>Back to Homepage</a></Link>
