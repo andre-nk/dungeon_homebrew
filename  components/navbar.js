@@ -4,8 +4,8 @@ const Navbar = () => {
     return (
         <nav>
             <div className="logo">
-                <h1>Homebrew</h1>
-            </div>
+                <img src="/icon.png" alt="" />
+            </div>  
             <div>
                 <Link href="/"><a>Home</a></Link>
                 <Link href="/collections"><a>Collection</a></Link>

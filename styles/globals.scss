@@ -14,7 +14,7 @@ a {
 .content {
   justify-content: center;
   max-width: 100rem;
-  margin: 0 10rem;
+  margin: 0 5rem;
 }
 
 nav {
@@ -47,4 +47,13 @@ nav {
   margin-top: 50px;
   color: #777;
   border-top: 1px solid #eaeaea;
+}
+
+.error{
+  text-align: center;
+
+  a{
+    text-decoration: underline;
+    text-decoration-color: blue;
+  }
 }
